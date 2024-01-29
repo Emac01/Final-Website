@@ -1,0 +1,132 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+.header{
+    width:100%;
+}
+.body{
+    background-color: rgb(252, 242, 233);
+}
+.topnav {
+    background-color:rgb(253, 217, 181);
+    width:100%;
+    height:75px;
+    font-size:30px;
+    text-align: center;
+    font-family:'Eczar', serif;
+    word-spacing:60px;
+}
+.links{
+    color:rgb(143, 110, 63);
+}
+.h1{
+    position: absolute ;
+    padding:13px;
+    left:587px;
+    font-family: 'Eczar', serif;
+    color:rgb(143, 110, 63); 
+    font-size:30px;
+}
+.p10{
+    position: absolute ;
+    left:400px;
+    padding:13px;
+    font-family:'Eczar', serif;
+    color:rgb(49, 28, 4);
+}
+.pages1{
+    position:absolute;
+    border:solid rgb(46, 23, 1);
+    height:350px;
+    width:250px;
+    left:165px;
+    top:1175px;
+
+}
+.pages2{
+    position:absolute;
+    border:solid rgb(46, 23, 1);
+    height:350px;
+    width:250px;
+    left:475px;
+    top:1175px;
+
+}
+.pages3{
+    position:absolute;
+    border:solid rgb(46, 23, 1);
+    height:350px;
+    width:250px;
+    right:475px;
+    top:1175px;
+
+}
+.pages4{
+    position:absolute;
+    border:solid rgb(46, 23, 1);
+    height:350px;
+    width:250px;
+    right:165px;
+    top:1175px;
+    
+
+}
+.h2{
+    position: absolute ;
+    padding:13px;
+    font-family: 'Eczar', serif;
+    color:rgb(143, 110, 63); 
+    font-size:30px;
+    top:1600px;
+
+}
+.p11{
+    position: absolute ;
+    padding:13px;
+    font-family:'Eczar', serif;
+    color:rgb(49, 28, 4);
+}
+.table{
+    position:absolute;
+    left:625px;
+    padding:3px;
+    font-family:'Eczar', serif;
+    border:solid rgb(46, 23, 1);
+}
+.unit{
+    border:solid rgb(46, 23, 1);
+
+}
+.h3{
+    position: absolute ;
+    left: 585px;
+    font-family: 'Eczar', serif;
+    color:rgb(143, 110, 63); 
+    font-size:30px;
+    top:1625px;
+}
+
+.h4{
+    position: absolute ;
+    left:905px;
+    font-family: 'Eczar', serif;
+    color:rgb(143, 110, 63); 
+    font-size:30px;
+    top:1625px;
+}
+.unit2{
+    border:solid rgb(46, 23, 1);    
+}
+.table2{
+    position:absolute;
+    left:900px;
+    padding:3px;
+    font-family:'Eczar', serif;
+    border:solid rgb(46, 23, 1);
+    top:1694px;
+}
+.link{
+    padding:13px;
+    font-family:'Eczar', serif;
+}

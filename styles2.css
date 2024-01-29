@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+.body{
+    background-color: rgb(252, 242, 233);
+}
+.pic5{
+    width:100%;
+}
+.topnav {
+    background-color:rgb(253, 217, 181);
+    width:100%;
+    height:75px;
+    font-size:30px;
+    text-align: center;
+    font-family:'Eczar', serif;
+    word-spacing:60px;
+}
+.links{
+    color:rgb(143, 110, 63);
+}
+.p2{
+    position: absolute ;
+    padding:13px;
+    font-family: 'Eczar', serif;
+    color:rgb(49, 28, 4);
+    font-size:17px;
+}
+.link1{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p3{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic6{
+  position:absolute;  
+  top:600px;
+  left:500px;
+  width:350px;
+  height:450px;
+  border:solid rgb(46, 23, 1);
+}
+.link2{
+    position: absolute;
+    padding:13px ;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p4{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic7{
+    position:absolute;  
+    top:1150px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
+.link3{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p5{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic8{
+    position:absolute;
+    top:1700px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
+.link4{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p6{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic9{
+    position:absolute;
+    top:2250px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
+.link5{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p7{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic10{
+    position:absolute;
+    top:2800px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
+.link6{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p8{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic11{
+    position:absolute;
+    top:3350px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
+.link7{
+    position:absolute;
+    padding:13px;
+    font-family:'Eczar', serif;
+    font-size:30px;
+}
+.p9{
+    padding:13px;
+    font-family:'Eczar', serif;
+}
+.pic12{
+    position:absolute;
+    top:3900px;
+    left:500px;
+    width:350px;
+    height:450px;
+    border:solid rgb(46, 23, 1);
+}
